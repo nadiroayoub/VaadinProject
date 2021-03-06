@@ -1,9 +1,22 @@
 .login-information {
     min-width: 300px;
     flex: 0;
-    background: var(--lumo-primary-color-50pct);
+    background: #2D83F4;
+   
 }
 
+.login-infoHeader{
+	color: White;
+}
+.login-InfoText{
+	color:White;
+}
+.logo-delSitio{
+	padding-top:40px;
+	width: 80%;
+	margin-bottom: 20px;
+}
+s
 /* Stack login-screen vertically on narrow screen */
 @media (max-width: 800px) {
 
